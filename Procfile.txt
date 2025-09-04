@@ -1,0 +1,1 @@
+we: sh_setup.sh && streamlit run app.py
